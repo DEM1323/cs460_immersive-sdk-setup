@@ -19,8 +19,11 @@ Follow the steps below to install and configure the Core SDK in your Unity proje
 ### 2. Follow the SDK Setup Instructions
 After importing, locate the included **README.md** file inside the asset folder.  
 Follow the setup steps in that file using the following credentials:
+
 Username: david_martinez
+
 Password: cs460
+
 *Note don't change the password, the setup has you change the password but I've already done that for you
 
 ---
